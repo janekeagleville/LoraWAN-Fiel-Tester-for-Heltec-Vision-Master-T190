@@ -1,7 +1,7 @@
 # LoRa Field Test — Heltec Vision Master T190
 
 Samodzielny tester zasięgu LoRa na płytce **Heltec Vision Master T190** (ESP32-S3, SX1262, ekran TFT 1,9" 170×320, dwa przyciski, bez dotyku i bez GPS).
-To **własny firmware, nie Meshtastic**: płytka sama obsługuje radio. Nie łączy się z CYD ani z Trackerem i nie ma mapy, czatu ani listy węzłów Meshtastic.
+To **własny firmware, nie Meshtastic**: płytka sama obsługuje radio. 
 
 > Uwaga: firmware został napisany i przetestowany na hoście (symulacja radia i ekranu, ASan/UBSan). **Nie był kompilowany dla ESP32 ani uruchamiany na płytce**, więc pierwsze wgranie może wymagać drobnych poprawek.
 
